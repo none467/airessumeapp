@@ -1,0 +1,13 @@
+{
+  "name": "ai-resume-builder",
+  "version": "1.0.0",
+  "description": "AI Resume Builder Python Application",
+  "scripts": {
+    "build": "echo 'This is a Python application. No build step required.'",
+    "dev": "echo 'This is a Python application. Run with: python main.py'",
+    "start": "echo 'This is a Python application. Run with: python main.py'"
+  },
+  "keywords": ["python", "gradio", "ai", "resume"],
+  "author": "",
+  "license": "MIT"
+}
